@@ -1,7 +1,9 @@
 Meteor Tutorial with React from : https://www.meteor.com/tutorials/react/ 
 
 To run the app : 
-get in the folder : cd simple-todos
+get in the folder : 
+
+cd simple-todos
 
 run meteor with the cmd : meteor
 
